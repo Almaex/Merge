@@ -1,0 +1,120 @@
+{
+  "ver": "1.0.6",
+  "importer": "sprite-atlas",
+  "imported": true,
+  "uuid": "6c49c20d-cc63-4365-a61e-eea2b8d56764",
+  "files": [
+    ".plist",
+    ".json"
+  ],
+  "subMetas": {
+    "e58e1": {
+      "importer": "sprite-frame",
+      "uuid": "6c49c20d-cc63-4365-a61e-eea2b8d56764@e58e1",
+      "displayName": "",
+      "id": "e58e1",
+      "name": "BlueFlowerLevel1",
+      "userData": {
+        "trimType": "auto",
+        "trimThreshold": 1,
+        "rotated": false,
+        "offsetX": 0,
+        "offsetY": 0,
+        "trimX": 0,
+        "trimY": 0,
+        "width": 50,
+        "height": 46,
+        "rawWidth": 50,
+        "rawHeight": 46,
+        "borderTop": 0,
+        "borderBottom": 0,
+        "borderLeft": 0,
+        "borderRight": 0,
+        "packable": true,
+        "isUuid": true,
+        "imageUuidOrDatabaseUri": "64c46dcd-a9ac-4e2f-8587-462adc275a4b@6c48a",
+        "atlasUuid": "6c49c20d-cc63-4365-a61e-eea2b8d56764"
+      },
+      "ver": "1.0.9",
+      "imported": true,
+      "files": [
+        ".json"
+      ],
+      "subMetas": {}
+    },
+    "e2f9c": {
+      "importer": "sprite-frame",
+      "uuid": "6c49c20d-cc63-4365-a61e-eea2b8d56764@e2f9c",
+      "displayName": "",
+      "id": "e2f9c",
+      "name": "BlueFlowerLevel2",
+      "userData": {
+        "trimType": "auto",
+        "trimThreshold": 1,
+        "rotated": false,
+        "offsetX": 0,
+        "offsetY": 0,
+        "trimX": 0,
+        "trimY": 46,
+        "width": 50,
+        "height": 43,
+        "rawWidth": 50,
+        "rawHeight": 43,
+        "borderTop": 0,
+        "borderBottom": 0,
+        "borderLeft": 0,
+        "borderRight": 0,
+        "packable": true,
+        "isUuid": true,
+        "imageUuidOrDatabaseUri": "64c46dcd-a9ac-4e2f-8587-462adc275a4b@6c48a",
+        "atlasUuid": "6c49c20d-cc63-4365-a61e-eea2b8d56764"
+      },
+      "ver": "1.0.9",
+      "imported": true,
+      "files": [
+        ".json"
+      ],
+      "subMetas": {}
+    },
+    "011a2": {
+      "importer": "sprite-frame",
+      "uuid": "6c49c20d-cc63-4365-a61e-eea2b8d56764@011a2",
+      "displayName": "",
+      "id": "011a2",
+      "name": "BoxWithBonusLevel1",
+      "userData": {
+        "trimType": "auto",
+        "trimThreshold": 1,
+        "rotated": false,
+        "offsetX": 0,
+        "offsetY": 0,
+        "trimX": 0,
+        "trimY": 89,
+        "width": 50,
+        "height": 38,
+        "rawWidth": 50,
+        "rawHeight": 38,
+        "borderTop": 0,
+        "borderBottom": 0,
+        "borderLeft": 0,
+        "borderRight": 0,
+        "packable": true,
+        "isUuid": true,
+        "imageUuidOrDatabaseUri": "64c46dcd-a9ac-4e2f-8587-462adc275a4b@6c48a",
+        "atlasUuid": "6c49c20d-cc63-4365-a61e-eea2b8d56764"
+      },
+      "ver": "1.0.9",
+      "imported": true,
+      "files": [
+        ".json"
+      ],
+      "subMetas": {}
+    }
+  },
+  "userData": {
+    "atlasTextureName": "lossy.png",
+    "format": 3,
+    "uuid": "6c49c20d-cc63-4365-a61e-eea2b8d56764",
+    "textureUuid": "64c46dcd-a9ac-4e2f-8587-462adc275a4b@6c48a"
+  }
+}
